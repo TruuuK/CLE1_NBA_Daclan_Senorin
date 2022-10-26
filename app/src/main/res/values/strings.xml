@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NBA</string>
+    <string name="app_main">NBA ALL STARS</string>
+    <string name="app_sub_one">Kevin Wayne Durant is a professional American basketball player who currently plays for the ‘Brooklyn Nets of the ‘ National Basketball Association .’ Durant has won many awards, including two ‘Finals MVP Awards’ and two Olympic gold medals. Born in Washington DC in the United States, Durant was enthusiastic about basketball from his childhood.</string>
+    <string name="app_sub_two">LeBron James is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). He has also been a part of teams like the Cleveland Cavaliers and Miami Heat and became the first player in NBA history to have won NBA championships with three franchises as Finals MVP.</string>
+    <string name="app_sub_three">Stephen Curry, popularly known by his nickname ‘Steph,’ is an American professional basketball player. He plays in the National Basketball Association (NBA) for the Golden State Warriors. The name Stephen Curry is one that will definitely ring a bell in the minds and hearts of basketball fans worldwide.</string>
+    <string name="app_sub_four">Kawhi Anthony Leonard is an American professional basketball player for the Los Angeles Clippers of the National Basketball Association (NBA). A two-time NBA champion, he is a five-time All-Star with three All-NBA First Team selections. Nicknamed the "Claw" or "Klaw" for his ball-hawking skills.</string>
+</resources>
